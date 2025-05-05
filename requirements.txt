@@ -1,0 +1,57 @@
+# Web framework
+fastapi==0.115.12
+uvicorn[standard]==0.34.2
+
+# Ortam değişkenleri
+python-dotenv==1.1.0
+
+# Veri modelleri ve doğrulama
+pydantic==2.11.4
+
+# Gemini API
+google-generativeai==0.8.5
+
+# Vektör veritabanı
+chromadb==0.6.3
+
+# LangChain çekirdek + chroma + huggingface + community
+langchain==0.3.25
+langchain-chroma==0.2.3
+langchain-community==0.3.23
+langchain-huggingface==0.1.2
+
+# PDF yükleme
+pymupdf==1.25.5
+
+# Embedding için
+sentence-transformers==4.1.0
+torch==2.7.0
+huggingface-hub[hf_xet]==0.30.2
+
+
+
+# pip install -r requirements.txt
+# pip install -r requirements.txt --default-timeout=100
+# Remove-Item -Recurse -Force venv
+# python -m venv venv
+# .\venv\Scripts\activate
+# Command Palette yeni venv i interpreter ata
+
+
+# Komut	                                             Açıklama
+# pip uninstall -r requirements.txt	                 Tüm paketleri kaldırır, ama her seferinde onay ister
+# pip uninstall -r requirements.txt -y	             Tüm paketleri onaysız, otomatik kaldırır
+# pip install -r requirements.txt	                 Requirements dosyasındaki paketleri yükler
+# pip freeze > requirements.txt	                     Ortamdaki tüm paketlerin versiyonlarını requirements.txt olarak kaydeder
+# pip freeze > requirements.txt --local	             Ortamdaki tüm paketlerin versiyonlarını requirements.txt olarak kaydeder, ama global paketleri dahil etmez
+# pip freeze > requirements.txt --all	             Ortamdaki tüm paketlerin versiyonlarını requirements.txt olarak kaydeder, ama global paketleri dahil etmez
+
+
+
+# In your PowerShell (run as Administrator just to be safe), do:
+# powershell
+# Get-Process python* -ErrorAction SilentlyContinue | Stop-Process -Force   
+
+
+
+# uvicorn main:app --reload --port 8001huggingface_hub[hf_xet]
