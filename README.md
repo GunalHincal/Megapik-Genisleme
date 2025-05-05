@@ -4,7 +4,7 @@
 
 🚀 **Canlı Demo:** [https://megapikgenislemechatbot-production.up.railway.app/](https://megapik-yeniden-chatbot.onrender.com/) 🔗
 
-Megapik Chatbot, Meltem Hınçal’ın bilim kurgu serisi **Megapik 'Genişleme'** kitabı için özel olarak geliştirilmiş bir **Retrieval-Augmented Generation (RAG)** projesidir. Kitap dünyasını keşfetmek, karakterleri tanımak ve öyküyü derinlemesine anlamak için sorularınızı sorun; makina size kitabın kendi kelimeleriyle yanıt versin! ✨
+Megapik Chatbot, Meltem Hınçal’ın bilim kurgu serisi **Megapik 'Genişleme'** kitabı için özel olarak geliştirilmiş bir **Retrieval-Augmented Generation (RAG)** projesidir. Kitap dünyasını keşfetmek, karakterleri tanımak ve öyküyü derinlemesine anlamak için sorularınızı sorun; chatbot size merak ettiklerinizi içeriği göre cevaplasın. ✨
 
 ---
 
