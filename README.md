@@ -166,7 +166,8 @@ GEMINI_API_KEY=your_gemini_api_key_here
 
 Bu proje, **kitap içeriğine dayalı chatbot geliştirme** sürecini detaylandırarak **bilgiye dayalı yapay zeka asistanlarının nasıl inşa edilebileceğini** gösteren bir çalışma olmuştur. Gelecekte **farklı veri kaynakları** ile genişletilerek akademik ve ticari kullanım alanları artırılabilir.
 
-👩‍💻 **Geliştirici:** Günal Hınçal `<br>`
+👩‍💻 **Geliştirici:** Günal Hınçal
+
 📆 **Tarih:** Mayıs 2025
 
 Her türlü geri bildiriminiz için ulaşabilirsiniz. Projeyi beğenip desteklemeyi unutmayın! 😊
